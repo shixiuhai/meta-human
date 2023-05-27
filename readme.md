@@ -14,6 +14,6 @@
 * 使用了达摩学院语音检测模型
 
 ### 补充说明
-* 暂无
+* 录音参考 https://cloud.tencent.com/developer/article/2008377
 * 暂无
 
